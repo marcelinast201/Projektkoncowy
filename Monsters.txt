@@ -1,0 +1,2 @@
+Andariel 10 70
+Blacksmith 100 25
